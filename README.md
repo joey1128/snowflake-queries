@@ -9,16 +9,16 @@
 3. [Key Queries and Use Cases](#key-queries-and-use-cases)
    - [For Marketing Teams](#1-for-marketing-teams)
    - [For Sales Teams](#2-for-sales-teams)
-   - [For Data Analysts](#3-for-data-analysts)
-   - [For Customer Success Teams](#4-for-customer-success-teams)
+   - [For Customer Success Teams](#3-for-customer-success)
+   - [For Data Teams](#4-for-data-teams)
+   - [For Content Marketing Teams](#5-for-content-marketing)
 4. [Getting Started](#getting-started)
-5. [Industry-Specific Use Cases](#industry-specific-use-cases)
-6. [Advanced Features](#advanced-features)
-7. [Conclusion](#conclusion)
-8. [FAQ](#faq)
+5. [Advanced Features](#advanced-features)
+6. [Conclusion](#conclusion)
+7. [FAQ](#faq)
 
 ---
-
+### 4. **For Data Teams**
 ## Overview
 This repository contains a collection of queries and resources designed to unlock the full potential of HubSpot's Snowflake Data Share. By connecting HubSpot data to your Snowflake data warehouse, you can enable advanced reporting, unify data across systems, and power scalable, data-driven decision-making for your organization.
 
@@ -310,7 +310,7 @@ FROM
 
 ```
 
-### 3. **For Customer Support & Success Teams**
+### 3. **For Customer Success**
 
 **Cumulative Time in Stage/Status for Service/Sales Teams:**
 ```sql
@@ -474,7 +474,7 @@ HAVING
 
 
 
-### 4. **For Operations and Data Teams**
+### 4. **For Data Teams**
 
 **Get Top Properties with Changes in Last 7 Days:**
 ```sql
@@ -605,7 +605,7 @@ FROM
 )
 ```
 ---
-### 5. **For Content Marketers & CMS Teams**
+### 5. **For Content Marketing**
 
 **List Custom Event E-Commerce interactions for Contacts:**
 ```sql
