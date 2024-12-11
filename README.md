@@ -1,5 +1,7 @@
 # HubSpot Snowflake Data Share Repository
 
+Find our [Snowflake Data Share Slide Deck](https://docs.google.com/presentation/d/1WNayQcGZF3RkcfEpXBxP51trmUojqYieAM2uo-VrSH4/edit?usp=sharing), which includes diagrams, queries, demonstration videos, and more.
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Why Activate Snowflake Data Share?](#why-activate-snowflake-data-share)
