@@ -1,6 +1,6 @@
 # HubSpot Snowflake Data Share Repository
 
-Find our [Snowflake Data Share Slide Deck]([https://docs.google.com/presentation/d/1WNayQcGZF3RkcfEpXBxP51trmUojqYieAM2uo-VrSH4/edit?usp=sharing](https://eng11e.seismic.com/i/evTkL8Grl8W6grjJksNkCciuEMsxfIBXgxqfeWJ8d1GMAwTh5sG5pLkK49d97nmrPYE___W___3eYyoCq___VIKuow0PLUSSIGNRTNXR9cGvg47xW1MrMiwyGnWpbxZ92i5VePLUSSIGNT8B0nCA)), which includes diagrams, queries, demonstration videos, and more.
+Find our [Snowflake Data Share Slide Deck]([https://docs.google.com/presentation/d/1WNayQcGZF3RkcfEpXBxP51trmUojqYieAM2uo-VrSH4/edit?usp=sharing](https://eng11e.seismic.com/i/evTkL8Grl8W6grjJksNkCciuEMsxfIBXgxqfeWJ8d1GMAwTh5sG5pLkK49d97nmrPYE___W___3eYyoCq___VIKuow0PLUSSIGNRTNXR9cGvg47xW1MrMiwyGnWpbxZ92i5VePLUSSIGNT8B0nCA), which includes diagrams, queries, demonstration videos, and more.
 
 ## Table of Contents
 1. [Overview](#overview)
