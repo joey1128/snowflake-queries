@@ -20,7 +20,7 @@ Find our [Snowflake Data Share Slide Deck](https://docs.google.com/presentation/
 7. [FAQ](#faq)
 
 ---
-### 4. **For Data Teams**
+
 ## Overview
 This repository contains a collection of queries and resources designed to unlock the full potential of HubSpot's Snowflake Data Share. By connecting HubSpot data to your Snowflake data warehouse, you can enable advanced reporting, unify data across systems, and power scalable, data-driven decision-making for your organization.
 
@@ -165,7 +165,7 @@ ORDER BY
 
 
 ```
-
+---
 ### 2. **For Sales Teams**
 
 **Revenue Amount for each Contact who have associated Deals:**
@@ -311,7 +311,7 @@ FROM
 
 
 ```
-
+---
 ### 3. **For Customer Success**
 
 **Cumulative Time in Stage/Status for Service/Sales Teams:**
@@ -472,10 +472,7 @@ HAVING
 
 ```
 
-
-
-
-
+---
 ### 4. **For Data Teams**
 
 **Get Top Properties with Changes in Last 7 Days:**
